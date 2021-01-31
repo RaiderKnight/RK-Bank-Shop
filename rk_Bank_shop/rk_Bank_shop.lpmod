@@ -1,0 +1,7 @@
+MODULE_UNIQUEID: rk_Bank_shop
+MODULE_NAME: Bank Module
+MODULE_AUTHOR: Raddeck
+MODULE_LINK: https://github.com/RaiderKnight/RK-Bank-Shop
+MODULE_DESCRIPTION: Money deposit/withdrawn!
+MODULE_REQUIREMENTS:
+MODULE_VERSION: 1.0

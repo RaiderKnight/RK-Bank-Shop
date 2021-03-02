@@ -2,7 +2,9 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_Bank_shop :</h3> 
+<h3>rk_Bank_shop :</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to deposit and withdraw money at the bank.</p>
 <p>Contain 1 scene, at the moment.</p>
 <br>
